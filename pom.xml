@@ -59,7 +59,6 @@
             <version>2.3.0.1</version>
         </dependency>
 
-
         <dependency>
             <groupId>com.sun.activation</groupId>
             <artifactId>javax.activation</artifactId>

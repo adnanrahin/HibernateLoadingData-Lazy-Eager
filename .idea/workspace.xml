@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b2f1420-9c94-414e-8fbd-f92fc537f8f0" name="Default Changelist" comment="" />
+    <list default="true" id="0b2f1420-9c94-414e-8fbd-f92fc537f8f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HibernateLoadingData-Lazy-Eager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HibernateLoadingData-Lazy-Eager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +49,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -59,6 +67,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -119,53 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="HibernateLoadingData-Lazy-Eager" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="HibernateLoadingData-Lazy-Eager" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.QueryWithHQL" />
@@ -190,6 +152,7 @@
       <workItem from="1581169794527" duration="815000" />
       <workItem from="1581368227534" duration="1706000" />
       <workItem from="1581370005948" duration="32000" />
+      <workItem from="1581370343720" duration="1644000" />
     </task>
     <servers />
   </component>
@@ -229,10 +192,11 @@
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state x="2385" y="136" width="1024" height="845" key="SettingsEditor/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1579992406887" />
-    <state x="2319" y="257" width="1157" height="603" key="new project wizard" timestamp="1580031914014">
-      <screen x="1920" y="20" width="1920" height="1080" />
+    <state x="435" y="258" width="1157" height="603" key="new project wizard" timestamp="1581372064056">
+      <screen x="45" y="27" width="1875" height="1053" />
     </state>
-    <state x="2319" y="257" width="1157" height="603" key="new project wizard/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1580031914014" />
+    <state x="2319" y="257" width="1157" height="603" key="new project wizard/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581371920864" />
+    <state x="435" y="258" key="new project wizard/45.27.1875.1053/1920.20.1920.1080@45.27.1875.1053" timestamp="1581372064056" />
     <state x="2606" y="190" width="582" height="737" key="refactoring.ChangeSignatureDialog" timestamp="1580024447324">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
